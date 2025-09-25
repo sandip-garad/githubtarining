@@ -4,3 +4,5 @@ colour
 vibrant
 picture
 photo
+video
+audio
