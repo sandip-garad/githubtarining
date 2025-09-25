@@ -6,3 +6,6 @@ picture
 photo
 video
 audio
+payment method
+send money
+receive money
