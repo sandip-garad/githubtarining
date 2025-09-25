@@ -6,3 +6,7 @@ picture
 photo
 video
 audio
+
+paymeny
+send money
+receive money
