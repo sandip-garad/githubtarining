@@ -2,4 +2,5 @@ emoji
 type option
 colour
 vibrant
-
+picture
+photo
